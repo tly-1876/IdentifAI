@@ -1,2 +1,2 @@
-# IdentifAI
+# IdentifAi
 Software Eng
