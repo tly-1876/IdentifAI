@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806405436383",
+    "firebase_url": "https://identifai-database-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "identifai-database",
+    "storage_bucket": "identifai-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806405436383:android:b149dcc6eec0db35a00a6a",
+        "android_client_info": {
+          "package_name": "com.idenitfAi.group19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806405436383-mu7274pkl2tc6an27bs5h19iu4jj3uf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_tufXQxHMiVQdMOQKQmkWVFhaldCenM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806405436383-mu7274pkl2tc6an27bs5h19iu4jj3uf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
